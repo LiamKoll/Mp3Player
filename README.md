@@ -4,6 +4,8 @@ Ein leichtgewichtiger, lokaler MP3-Player für deine eigenen Playlists und Musik
 
 Entstanden als simple und private Alternative zu kostenpflichtigen Streaming-Diensten wie Spotify. Perfekt für alle, die ihre lokale MP3-Sammlung einfach und unkompliziert abspielen möchten.
 
+*Zum Beitrag:* 👉 [Beitrag zum Projekt: Mp3-Player App](https://liamkollaczek.vercel.app/projekte/mp3)
+
 ## 🎥 Programm-Review & Showcase
 
 Möchtest du sehen, wie der Player aussieht und funktioniert? Schau dir hier die kurze Review an:
