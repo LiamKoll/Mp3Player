@@ -27,6 +27,8 @@ Obwohl der Player bewusst schlicht gehalten ist, bringt er alle wichtigen Funkti
 - 🔊 **Lautstärkeregelung:** Passe die Lautstärke direkt im Player an.
 - ⏭️ **Steuerung:** Pausieren, Abspielen und Überspringen von Songs.
 
+---
+
 ## 🛠️ Schnellstart: So nutzt du den Player (.exe)
 
 Du musst nichts installieren und brauchst auch kein Python auf deinem PC. Du kannst dir einfach die fertige Anwendungsdatei herunterladen!
@@ -40,6 +42,8 @@ Du musst nichts installieren und brauchst auch kein Python auf deinem PC. Du kan
 
 > **Tipp:** Wenn du die ZIP-Datei über den grünen `<> Code` Button herunterlädst, findest du die `.exe` alternativ auch im Ordner `dist`.
 
+---
+
 ## 💻 Für Entwickler (Technologien)
 
 Wenn du das Design anpassen oder neue Funktionen einbauen möchtest, kannst du dir den Code gerne schnappen:
@@ -50,9 +54,7 @@ Wenn du das Design anpassen oder neue Funktionen einbauen möchtest, kannst du d
 
 *Ideen für Erweiterungen? Fühl dich frei, das Projekt zu forken oder mich zu kontaktieren!*
 
-## 👨‍💻 Autor & Hintergrundstory
-
-Entwickelt von **Liam Kollaczek**. 
+---
 
 Lies dir gerne die vollständige Entstehungsgeschichte des Projekts durch und erfahre, warum ich mich gegen teure Streaming-Dienste entschieden habe, auf meiner Portfolio-Website:
 👉 [Beitrag zum Projekt: Mp3-Player App](https://liamkollaczek.vercel.app/projekte/mp3)
